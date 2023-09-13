@@ -1,4 +1,4 @@
-# RUST_guessingGame
+# guessing_game_rust
 
 Learning Rust
 
